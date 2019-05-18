@@ -18,7 +18,7 @@ Computeranschluss
 Aufbau und Instellation
 
 1. Raspberry Pi und GrovePi aufeinander stecken und die Sensoren und Aktoren mit den entsprechenden Ports verbinden.
-2. Neues Projekt in PyCharm eröffnen (Anleitung wie man den Raspberry Pi mit PyCharm verbident findet man im Internet)
+2. Neues Projekt in PyCharm eröffnen (Anleitung wie man den Raspberry Pi mit PyCharm verbindet findet man im Internet)
 3. Code von Github importieren. (Option mit oder ohne Kommentar möglich)
 4. Die verschiedenen Module auf Pycharm installieren. (Smbus1 und 2, Grove.adc, Grove.i2c und Grovepi)
 5. Projekt mit Hilfe von "Deployment" auf Raspberry Pi deployen.
@@ -26,3 +26,15 @@ Aufbau und Instellation
 
 Code Quellen
 
+Der Code wurde mit Hilfe von diesen Seiten erstellt:
+1. Loudness Sensor:  http://wiki.seeedstudio.com/Grove-Loudness_Sensor/
+2. Temperatur: http://wiki.seeedstudio.com/Grove-Temperature_and_Humidity_Sensor_Pro/
+3. Display: http://wiki.seeedstudio.com/Grove-4-Digit_Display/
+4. Bewegungssensor: http://wiki.seeedstudio.com/Grove-PIR_Motion_Sensor/
+5. Grove_LED v1.1: http://wiki.seeedstudio.com/Grove-LED_Socket_Kit/
+
+Autoren
+
+J.K - Studentin HSLU
+F.A - Studentin HSLU
+I.W - Studentin HSLU
